@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.card{
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+}
+.card button{
+    padding: 8px 13px;
+    border-radius: 10px;
+    border: none;
+}
+a{
+    color: whitesmoke;
+}
